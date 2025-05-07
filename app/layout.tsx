@@ -58,14 +58,9 @@ export const metadata: Metadata = {
 			"Kelajakdagi loyihangiz uchun 120+ dan ortiq asosiy SVG shakllar to'plami",
 		url: 'https://www.umidjon-svg.site',
 		siteName: 'Shakllar',
-		images: [
-			{
-				url: 'https://za91ew3vlq.ufs.sh/f/b5JZpOxCrSeIRBOUeEnFMq3lgbNjKidtsyz8vrWcn6ATUf27',
-				width: 1200,
-				height: 630,
-				alt: 'Shakllar - SVG Shakllar Kolleksiyasi',
-			},
-		],
+		images:
+			'https://za91ew3vlq.ufs.sh/f/b5JZpOxCrSeIRBOUeEnFMq3lgbNjKidtsyz8vrWcn6ATUf27',
+
 		locale: 'uz_UZ',
 		type: 'website',
 	},
