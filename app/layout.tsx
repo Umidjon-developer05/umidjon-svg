@@ -58,6 +58,7 @@ export const metadata: Metadata = {
 			"Kelajakdagi loyihangiz uchun 120+ dan ortiq asosiy SVG shakllar to'plami",
 		url: 'https://www.umidjon-svg.site',
 		siteName: 'Shakllar',
+		countryName: 'Uzbekistan',
 		images:
 			'https://za91ew3vlq.ufs.sh/f/b5JZpOxCrSeIRBOUeEnFMq3lgbNjKidtsyz8vrWcn6ATUf27',
 
@@ -81,8 +82,6 @@ export const metadata: Metadata = {
 			'https://za91ew3vlq.ufs.sh/f/b5JZpOxCrSeIRBOUeEnFMq3lgbNjKidtsyz8vrWcn6ATUf27',
 	},
 }
-
-
 
 export const viewport: Viewport = {
 	themeColor: '#000000',
