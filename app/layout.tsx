@@ -1,3 +1,4 @@
+import type React from 'react'
 import type { Metadata, Viewport } from 'next'
 import localFont from 'next/font/local'
 import './globals.css'
@@ -43,7 +44,7 @@ export const metadata: Metadata = {
 		address: false,
 		telephone: false,
 	},
-	metadataBase: new URL('https://umidjon-svg.site'),
+	metadataBase: new URL('https://www.umidjon-svg.site'),
 	alternates: {
 		canonical: '/',
 		languages: {
@@ -55,11 +56,11 @@ export const metadata: Metadata = {
 		title: "Shakllar - SVG Shakllar To'plami",
 		description:
 			"Kelajakdagi loyihangiz uchun 120+ dan ortiq asosiy SVG shakllar to'plami",
-		url: 'https://umidjon-svg.site',
+		url: 'https://www.umidjon-svg.site',
 		siteName: 'Shakllar',
 		images: [
 			{
-				url: 'https://za91ew3vlq.ufs.sh/f/b5JZpOxCrSeIRBOUeEnFMq3lgbNjKidtsyz8vrWcn6ATUf27',
+				url: '/og-image.png',
 				width: 1200,
 				height: 630,
 				alt: 'Shakllar - SVG Shakllar Kolleksiyasi',
@@ -73,16 +74,12 @@ export const metadata: Metadata = {
 		title: "Shakllar - SVG Shakllar To'plami",
 		description:
 			"Kelajakdagi loyihangiz uchun 120+ dan ortiq asosiy SVG shakllar to'plami",
-		images: [
-			'https://za91ew3vlq.ufs.sh/f/b5JZpOxCrSeIRBOUeEnFMq3lgbNjKidtsyz8vrWcn6ATUf27',
-		],
+		images: ['/og-image.png'],
 	},
 	icons: {
-		icon: 'https://za91ew3vlq.ufs.sh/f/b5JZpOxCrSeIRBOUeEnFMq3lgbNjKidtsyz8vrWcn6ATUf27',
-		shortcut:
-			'https://za91ew3vlq.ufs.sh/f/b5JZpOxCrSeIRBOUeEnFMq3lgbNjKidtsyz8vrWcn6ATUf27',
-		apple:
-			'https://za91ew3vlq.ufs.sh/f/b5JZpOxCrSeIRBOUeEnFMq3lgbNjKidtsyz8vrWcn6ATUf27',
+		icon: '/favicon.ico',
+		shortcut: '/favicon.ico',
+		apple: '/apple-icon.png',
 	},
 }
 
