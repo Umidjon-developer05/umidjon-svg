@@ -60,7 +60,7 @@ export const metadata: Metadata = {
 		siteName: 'Shakllar',
 		images: [
 			{
-				url: '/og-image.png',
+				url: 'https://za91ew3vlq.ufs.sh/f/b5JZpOxCrSeIRBOUeEnFMq3lgbNjKidtsyz8vrWcn6ATUf27',
 				width: 1200,
 				height: 630,
 				alt: 'Shakllar - SVG Shakllar Kolleksiyasi',
@@ -74,12 +74,16 @@ export const metadata: Metadata = {
 		title: "Shakllar - SVG Shakllar To'plami",
 		description:
 			"Kelajakdagi loyihangiz uchun 120+ dan ortiq asosiy SVG shakllar to'plami",
-		images: ['/og-image.png'],
+		images: [
+			'https://za91ew3vlq.ufs.sh/f/b5JZpOxCrSeIRBOUeEnFMq3lgbNjKidtsyz8vrWcn6ATUf27',
+		],
 	},
 	icons: {
-		icon: '/favicon.ico',
-		shortcut: '/favicon.ico',
-		apple: '/apple-icon.png',
+		icon: 'https://za91ew3vlq.ufs.sh/f/b5JZpOxCrSeIRBOUeEnFMq3lgbNjKidtsyz8vrWcn6ATUf27',
+		shortcut:
+			'https://za91ew3vlq.ufs.sh/f/b5JZpOxCrSeIRBOUeEnFMq3lgbNjKidtsyz8vrWcn6ATUf27',
+		apple:
+			'https://za91ew3vlq.ufs.sh/f/b5JZpOxCrSeIRBOUeEnFMq3lgbNjKidtsyz8vrWcn6ATUf27',
 	},
 }
 
